@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/*"
+  to = "https://zh.wikipedia.org/wiki/LiSA"
+  status = 302
